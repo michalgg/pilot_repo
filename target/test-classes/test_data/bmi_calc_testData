@@ -1,0 +1,4 @@
+unitType;age;gender;height;weight;expectedResult
+Metric Units;35;f;170;60;Normal
+Metric Units;25;m;170;80;Overweight
+Metric Units;35;f;170;50;Mild thinness

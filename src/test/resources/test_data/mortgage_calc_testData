@@ -1,0 +1,3 @@
+homePrice;downPayment;longTerm;interestRate;expectedResult
+120000;20;20;4;581.74
+50000;23;2;7;1,723.74
